@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">agora_Sozinho</string>
     <string name="type_your_name">Digite seu nome</string>
     <string name="type_your_last_name">Digite seu Sobrenome</string>
     <string name="result">Resultado</string>
     <string name="send">Enviar</string>
+    <string name="app_name">Nome App</string>
+    <string name="Hello_Name">Olá, %1$s!</string>
 </resources>
